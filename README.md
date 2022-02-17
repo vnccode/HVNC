@@ -1,5 +1,5 @@
 # HVNC
-HVNC , hidden remote desktop VNC
+HVNC , hidden remote desktop with  backconnect
 
 - Linux  VPS settings 
 
