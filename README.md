@@ -12,9 +12,13 @@ sudo reboot
 Windows
 
 run vncviewer.exe
+
 click listen mode ( port 5500)
+
 edit tunnel.bat change VPS IP and password
+
 run tunnel.bat
+
 Press return to begin session
 
 Run  builder.exe
