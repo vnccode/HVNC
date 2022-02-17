@@ -1,7 +1,7 @@
 # HVNC
 HVNC , hidden remote desktop VNC
 
-Linux  VPS 
+- Linux  VPS settings -
 
 Edit ssh config 
 
@@ -13,7 +13,7 @@ PermitTunnel yes
 
 sudo reboot
 
-Windows
+- Windows -
 
 run vncviewer.exe
 
