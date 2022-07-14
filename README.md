@@ -4,7 +4,7 @@ HVNC , hidden remote VNC desktop with backconnect
 
 - Direct  mode
 
-Run vncviewer.exe
+Run tvnviewer.exe
 
 click listen mode ( port 5500)
 
@@ -28,7 +28,7 @@ sudo reboot
 
 Windows
 
-run vncviewer.exe
+run tvnviewer.exe
 
 click listen mode ( port 5500)
 
