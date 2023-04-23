@@ -21,7 +21,6 @@ Edit ssh config
 sudo nano /etc/ssh/sshd_config 
 
 Inside the sshd_config file  change the #PermitTunnel setting from no to yes.
-
 PermitTunnel yes
 
 sudo reboot
