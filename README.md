@@ -2,7 +2,7 @@
 HVNC , hidden remote VNC desktop with backconnect
 
 
-- Direct  mode ( tvnviewer launched on Windows vps)
+- Direct  mode ( tvnviewer.exe launched on Windows VPS)
 
 Run tvnviewer.exe
 
