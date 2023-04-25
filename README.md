@@ -24,6 +24,8 @@ Inside the sshd_config file  change the #PermitTunnel setting from no to yes.
 
 PermitTunnel yes
 
+and GatewayPorts yes
+
 sudo reboot
 
 Windows
