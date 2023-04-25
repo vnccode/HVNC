@@ -12,7 +12,9 @@ Run  builder.exe
 
 Enter VNC  server IP
 
-- Tunnel mode
+
+
+- Tunnel mode (computer behind a router , firewall)
 
 Linux  VPS 
 
