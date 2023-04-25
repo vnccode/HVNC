@@ -2,7 +2,7 @@
 HVNC , hidden remote VNC desktop with backconnect
 
 
-- Direct  mode
+- Direct  mode ( tvnviewer launched on Windows vps)
 
 Run tvnviewer.exe
 
@@ -13,12 +13,7 @@ Run  builder.exe
 Enter VNC  server IP
 
 
-
-
-
-
-
-- Tunnel mode (computer behind a router , firewall)
+- Tunnel mode (tvnviewer.exe behind a router , firewall)
 
 Linux  VPS 
 
