@@ -14,6 +14,10 @@ Enter VNC  server IP
 
 
 
+
+
+
+
 - Tunnel mode (computer behind a router , firewall)
 
 Linux  VPS 
