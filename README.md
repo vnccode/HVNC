@@ -49,3 +49,6 @@ build.exe will periodically connect to your vncviewer.exe server
 
 For reconnect remove desktop name from r.txt file
 
+contact cyy374h@outlook.com
+
+
